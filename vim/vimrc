@@ -1,0 +1,11 @@
+" Sorry for vi
+set nocompatible
+
+syntax enable
+
+filetype on
+
+set number
+set autoindent
+set autoread
+set ruler
