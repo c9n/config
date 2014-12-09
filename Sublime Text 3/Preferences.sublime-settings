@@ -1,12 +1,22 @@
 {
-	"theme": "itg.flat.dark.aqua.sublime-theme",
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"file_exclude_patterns":
+	[
+		".tags",
+		".tags_sorted_by_file",
+		".gemtags"
+	],
 	"font_size": 16,
-	"itg_sidebar_tree_large": true,
+	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeGit"
+		"Vintage"
 	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"theme": "Spacegray.sublime-theme",
+	"hot_exit": false,
+	"remember_open_files": false,
 	"show_full_path": true
 }
