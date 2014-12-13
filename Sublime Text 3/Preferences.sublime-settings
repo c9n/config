@@ -5,7 +5,8 @@
 	[
 		".tags",
 		".tags_sorted_by_file",
-		".gemtags"
+		".gemtags",
+		".DS_Store"
 	],
 	"font_size": 16,
 	"highlight_line": true,
