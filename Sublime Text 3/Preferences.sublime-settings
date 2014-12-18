@@ -19,5 +19,6 @@
 	"theme": "Spacegray.sublime-theme",
 	"hot_exit": false,
 	"remember_open_files": false,
-	"show_full_path": true
+	"show_full_path": true,
+	"ensure_newline_at_eof_on_save": true
 }
